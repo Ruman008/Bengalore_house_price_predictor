@@ -1,1 +1,0 @@
-# Bengalore_house_price_predictor
